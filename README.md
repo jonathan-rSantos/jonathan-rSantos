@@ -54,6 +54,9 @@ src="https://img.shields.io/github/followers/jonathan-rSantos?logo=github&style=
 ### Badges
 
 <b>My GitHub Stats</b>
+   
+   <a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=jonathan-rSantos&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+
 
 <a href="https://github.com/jonathan-rSantos"><img src="https://github-readme-stats-jonathan-rSantos.vercel.app/api?username=jonathan-rSantos&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Jonathan Ribeiro GitHub stats" /></a>
 
